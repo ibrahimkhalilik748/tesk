@@ -1,0 +1,11 @@
+.footer{
+    background-image: url(../../image/Group\ 17.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:610px;
+}
+.footer img{
+    width:35%;
+    margin-left: 60px;
+    margin-top: 110px;
+}

@@ -1,0 +1,15 @@
+.HeadBody h1{
+    font-weight: bold;
+    font-size:70px;
+}
+.HeadBody .img2{
+    width: 45%;
+}
+.HeadBody h6{
+    /* font-weight: bold; */
+    font-size:22px;
+}
+.HeadBody h4{
+    font-weight: bold;
+    /* font-size:70px; */
+}

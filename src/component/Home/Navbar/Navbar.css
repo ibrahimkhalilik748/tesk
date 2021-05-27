@@ -1,0 +1,33 @@
+.Navbar{
+    color: white;
+}
+.Navbar input{
+    background-color:#00E18E;
+    color: white;
+    padding:10px;
+    border: 0px;
+    border-radius:22px;
+}
+/* .Navbar ul{
+    padding-left: 800px;
+} */
+/* .Navbar li img{
+    width:210px;
+} */
+
+.Navbar .float{
+    margin-left: auto;
+}
+.Navbar li{
+    padding: 10px;
+    width:140px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight:bold
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
